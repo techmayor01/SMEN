@@ -1,0 +1,33 @@
+{
+  "name": "smenint",
+  "version": "1.0.0",
+  "description": "SMEN International Company Limited is a conglomerate with interests in various sectors established in 2021. It is set out to be the leading Company in the world serving in different sectors",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techmayor01/SMEN.git"
+  },
+  "keywords": [
+    "finance",
+    "logistics",
+    "procurement",
+    "real",
+    "estate",
+    "contracting",
+    "agrobusiness",
+    "agriculture"
+  ],
+  "author": "speakwith tech mayor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techmayor01/SMEN/issues"
+  },
+  "homepage": "https://github.com/techmayor01/SMEN#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
